@@ -6,4 +6,5 @@
 * Agradecimento
 * Prefácio
 * Apresentação
+* Sobre
 
