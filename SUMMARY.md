@@ -2,9 +2,9 @@
 
 * [Readme](README.md)
 * [Introdução](INTRODUCAO.md)
-* [Capítulo 1](CAPITULO_1.md)
 * Apresentação
 * Agradecimento
+* [Capítulo 1](CAPITULO_1.md)
 * Prefácio
 * Sobre
 
