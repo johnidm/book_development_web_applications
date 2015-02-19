@@ -1,4 +1,11 @@
-# book_development_web_applications
-E-book sobre desenvolvimento de aplicações Web
+# E-book sobre desenvolvimento de aplicações Web
 
-Teste de alteração
+####Tecnologias utilizadas no livro
+
+- CSS3
+- HTML5
+- JavaScript
+- JQuery
+- AngularJS
+- Bootstrap
+
