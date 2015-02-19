@@ -4,7 +4,7 @@
 * [Introdução](INTRODUCAO.md)
 * Apresentação
 * Agradecimento
-* [Capítulo 1](CAPITULO_1.md)
 * Prefácio
+* [Capítulo 1](CAPITULO_1.md)
 * Sobre
 
