@@ -13,5 +13,9 @@
 
 ####Instruções 
 
-* Ao final de cada capítulo incluir uma seção para compartilhar dicas de estudo - livros, revistas, sites, cursos, etc.
-* 
+#####Ao final de cada capítulo incluir:
+
+* Uma seção para compartilhar dicas de estudo - livros, revistas, sites, cursos, etc.
+* Exercícios para prática
+* Bibliografia utilizada
+* Conclusão do capítulo
