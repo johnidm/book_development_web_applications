@@ -1,6 +1,6 @@
 # Summary
 
 * [Readme](README.md)
-* [Introduction](INTRODUCAO.md)
+* [Introdução](INTRODUCAO.md)
 * [Capítulo 1](CAPITULO_1.md)
 
