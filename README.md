@@ -1,6 +1,6 @@
 # E-book sobre desenvolvimento de aplicações Web
 
-####Tecnologias utilizadas no livro
+####Objetivo do e-book é desenvolver uma aplicação Web utilizando as seguintes tecnologias.
 
 - CSS3
 - HTML5
@@ -8,4 +8,4 @@
 - JQuery
 - AngularJS
 - Bootstrap
-
+- REST
