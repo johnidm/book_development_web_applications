@@ -7,7 +7,8 @@ O HTML não é *case senitive*, ou seja, você pode escrever seus códigos em le
 Uma *tag* é formada pelo seu nome, precedido do caractere "<" (menor que) sucedido pelo caractere ">" (maior que). A maiorias das *tag* possum um *tag* correspondente conecida como *tag* de fechamento que indica o final da *tag*, essa *tag* é compostas pela mesma estrutura da tag de abertura acresentando o caractere "/" após o caractere ">". Veja o exemplo.
 
 ```html
-
+<body>
+</body>
 ```
 
 
