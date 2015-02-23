@@ -29,6 +29,8 @@ O deve sempre ser incluído no topo da página, essa declaração que vai inform
 ```
 
 
+A tag head possui informações de , veremos mais detalhes em outro capitulo.
+
 
 
 
