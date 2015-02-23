@@ -1,6 +1,6 @@
 #HTML5 
 
-##Introdução ao HTML5
+##Introdução ao HTML
 
 O HTML não é *case senitive*, ou seja, você pode escrever seus códigos em letras minusculas ou maiuscolas (eu recomendo fortemente o a escrita das tags em letras minuscolas), sua escrita é de fácil leitura e toda a sua estrurua é baseada em *tags*  que são elementos que informam ao navegador como ele renderizar determinda informação. Uma documento HTML é formado por um conjunto de tags que serão itnerpretadas pelo browser e exibida através de umja página HTML.
 
