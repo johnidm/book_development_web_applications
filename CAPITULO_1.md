@@ -59,10 +59,9 @@ Nos temos visto uma das mais interessantes melhorias no HTML5 o elementos que se
 * <footer>
 * 
 
-è impostante detacar que esse elementos podem estar embutidos un nos outros, por exemplo um section pode ter um hearder, nav, article e assim por diante. Esse navas tags são muito importantes pois podem ser utilziadas para estilizar seu site com CSS especifico de cara area, 
+É impostante detacar que esse elementos podem estar embutidos un nos outros, por exemplo um section pode ter um hearder, nav, article e assim por diante. Esse navas tags são muito importantes pois podem ser utilziadas para estilizar seu site com CSS especifico de cara area, 
 
 Veja um exeml=plo de uso daassa tags. Crie o arquivo segundo.html com o conteúdo abaixo.
-
 
 Salve o arquivo e abra ele em um browser. 
 
