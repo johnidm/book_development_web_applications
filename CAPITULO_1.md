@@ -27,6 +27,8 @@ As *tags* Atributos de um elemento HTML.
 
 ##HTML5 
 
+
+
 Esse é a estrutura basica de um código escrito em HTML5 e decrito da seguinte forma:
 
 
@@ -72,7 +74,10 @@ Veja um exeml=plo de uso daassa tags. Crie o arquivo segundo.html com o conteúd
 
 Salve o arquivo e abra ele em um browser. 
 
+>Motores de renderização - são responsáveis pelo processamento da pagina
 
 
-## 
+
+##Dicas para estudo 
+Acesse o site da WHATWG - 
 
