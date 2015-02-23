@@ -2,7 +2,7 @@
 
 ##Introdução ao HTML
 
-O HTML não é *case senitive*, ou seja, você pode escrever seus códigos em letras minusculas ou maiuscolas (eu recomendo fortemente o a escrita das tags em letras minuscolas), sua escrita é de fácil leitura e toda a sua estrurua é baseada em *tags*  que são elementos que informam ao navegador como ele renderizar determinda informação. Uma documento HTML é formado por um conjunto de tags que serão itnerpretadas pelo browser e exibida através de umja página HTML.
+O HTML não é *case senitive*, ou seja, você pode escrever seus códigos em letras minusculas ou maiuscolas (eu recomendo fortemente a escrita em letras minuscolas), sua escrita é de fácil leitura e toda a sua estrutura é baseada em *tags* que são elementos que informam ao navegador como ele renderizar determinda informação, as *tags* também são conecidas como elementos. Uma documento HTML é formado por um conjunto de *tags* que serão itnerpretadas pelo browser e exibida através de uma página HTML.
 
 Uma *tag* é formada pelo seu nome, precedido do caractere "<" (menor que) sucedido pelo caractere ">" (maior que). A maiorias das *tag* possum um *tag* correspondente conecida como *tag* de fechamento que indica o final da *tag*, essa *tag* é compostas pela mesma estrutura da tag de abertura acresentando o caractere "/" após o caractere ">". Veja o exemplo.
 
@@ -16,7 +16,7 @@ Existem algumas tag que não necessitam da tag de fechamento, seu uso é faculta
 
 Uma lista completa de todas as *tags* disponiveis no HTML5 por ser encontrada nesse link https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list
 
-Atributos de um elemento HTML.
+Ou Atributos de um elemento HTML.
 
 ##HTML5 
 
@@ -30,10 +30,35 @@ O deve sempre ser incluído no topo da página, essa declaração que vai inform
 ```html
 <html l>
 ```
-
-
 A tag head possui informações de , veremos mais detalhes em outro capitulo.
 
 
+Voce pode ter observado que o sinal especial çã da paravras não foi exeibido corretamente ao abrir o arqruivo primeiro.html, isso ocorreu pelo fato de não termos informaro ao browser que tipo de char sete ele deve usar para tratar de simbolos especiaias, é comum utilizar o char set UTF-8 para exibir pagainas escritar em prodtuges, dessa forma dentro da tag head vamos incluir a seguinte linha 
+
+```html
+utf-8
+```
+
+O resultado final de nosso c´pdigo é 
+
+Abra novamente a pagina e veja com os caracteres são informado de forma correta.
+
+Outro elemento basico de uma pagina html e o body, nele que estão todos os 
+
+
+##Estrutad e uma pagina escrita em HTML5
+
+Nos temos visto uma das mais interessantes melhorias no HTML5 o elementos que serao apresentados a seguir são elementos que ajudam a orginaizar a estrutura de nosso site, pense em um campo de futebol e em como temos as linhas que delemimanta cara area do campo, essas e a princial atribuicao dos elementos estruturaia sque vamos apresentar a seguir.
+
+
+* Cabeçalho - <header></header>
+* Menu de navegação  - <nav></nav> 
+* Seçoes - <section></section>
+* <article>
+* <aside>
+* <footer>
+* 
+
+è impostante detacar que esse elementos podem estar embutidos un nos outros, por exemplo um section pode ter um hearder, nav, article e assim por diante.
 
 
