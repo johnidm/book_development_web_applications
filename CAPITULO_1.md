@@ -12,12 +12,13 @@ Listagem 1
 ```
 Veja nesse exemplo o uso da *tag* `p` e observe como ela possui uma tag de abertura, `<p>` e uma tag de fechamento `</p>`.
 
-Existem algumas tag que não necessitam da tag de fechamento, seu uso é facultativo, nesse casos o uso do caractere  "/" pode vir logo após a tag de abertura. a tag `br` é um exemplo e pode ser escrita dessa forma `<br>` ou `<br />`. Esse tipo de tag é conhecido como **tag vazia** ou **elemento vazio**. Isso é uma caracteristica de documentos escritos em XHTML.
+Existem algumas tag que não necessitam da tag de fechamento, seu uso é facultativo, nesse casos o uso do caractere  "/" pode vir logo após a tag de abertura. a tag `br` é um exemplo e pode ser escrita dessa forma `<br>` ou `<br />`. Esse tipo de tag é conhecido como **tag vazia** ou **elemento vazio**. Isso é uma caracteristica de documentos escritos em XHTML, eu recomentdo não utilizar o "/" em tag vazias.
 
 Uma lista completa de todas as *tags* disponiveis no HTML5 por ser encontrada nesse link https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list
 
-
 Esse é a estrutura basica de um código escrito em HTML
+
+
 
 
 
