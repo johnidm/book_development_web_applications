@@ -16,8 +16,15 @@ Existem algumas tag que não necessitam da tag de fechamento, seu uso é faculta
 
 Uma lista completa de todas as *tags* disponiveis no HTML5 por ser encontrada nesse link https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list
 
+Atributos de um elemento HTML.
+
 Esse é a estrutura basica de um código escrito em HTML
 
+O deve sempre ser incluído no topo da página, essa declaração que vai informaro ao borwser que o documento deve ser interprtado como HTML 5. Logo após nos temos o elemento html que elvolve todos os elementos da página que serão exibidos no browser. O HTML possui dois atributos muito interessantes um dele é o lang que indica em qual lingua a página está desenvolvida e o elemento `dir` que indica a direção do texto. Veja os exemplos:
+
+```html
+
+```
 
 
 
