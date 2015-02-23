@@ -1,9 +1,12 @@
 #HTML
 
-HTML ou  HyperText Markup Language (Linguagem de Marcação de Hipertexto) é uma linguagem de marcação utilizada para produzir página web, na prática é um conjunto de elementos conhecidos como *tags* que montam uma documento que será renderiado por um browser. O protocolo utilizado para acesar essas informações é HTTP ou HTPPS, elas estão disponiveis na web atraves de nomes chamados de URI. HTML é uma plataforma universal que não possui dono, é uma lingaugem independente de palatforma ou meio de acesso
+HTML ou  HyperText Markup Language (Linguagem de Marcação de Hipertexto) é uma linguagem de marcação utilizada para produzir páginas web, na prática é um conjunto de elementos que montam uma documento que será renderiado por um browser. O conteúdo desse documento normalmente é textos, imagens, video audio, e etc. 
 
+
+HTML é uma plataforma universal e não possui dono, é uma lingaugem independente de palatforma ou meio de acesso.
 O desenvover d HTML é nada mais nada menos que Tim bernes Lee 
 
+A padronização do HTML é mantida pela W3C 
 
 ##Introdução ao HTML
 
