@@ -1,10 +1,8 @@
 #HTML
 
-O HTML é uam liguagem de Hypertexto para acesso acesso a pagínas, o protocolo utilizado paara acessar esas informaçlão é HTTP ou HTPPS e elas estão doisponive atraves de nomes chamados de URI. O HTML é uuma sigla e possui o seguinte siognificado, isos que devemos utiliar o HTMLL para pugicar.
+HTML ou  HyperText Markup Language (Linguagem de Marcação de Hipertexto) é uma linguagem de marcação utilizada para produzir página web, na prática é um conjunto de elementos conhecidos como *tags* que montam uma documento que será renderiado por um browser. O protocolo utilizado para acesar essas informações é HTTP ou HTPPS, elas estão disponiveis na web atraves de nomes chamados de URI. HTML é uma plataforma universal que não possui dono, é uma lingaugem independente de palatforma ou meio de acesso
 
 O desenvover d HTML é nada mais nada menos que Tim bernes Lee 
-O HTMK e uma linguagem independente de platarofrmas, ou meios de acesso permitidno que ela seja extedidade a qualquer um que queira utilziar.
-E uma plataforma universal
 
 
 ##Introdução ao HTML
@@ -80,4 +78,5 @@ Salve o arquivo e abra ele em um browser.
 
 ##Dicas para estudo 
 Acesse o site da WHATWG - 
+Modernizr - 
 
