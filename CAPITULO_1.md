@@ -16,7 +16,7 @@ Existem algumas tag que não necessitam da tag de fechamento, seu uso é faculta
 
 Uma lista completa de todas as *tags* disponiveis no HTML5 por ser encontrada nesse link https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list
 
-Ou Atributos de um elemento HTML.
+As *tags* Atributos de um elemento HTML.
 
 ##HTML5 
 
