@@ -1,4 +1,8 @@
-#HTML5 
+#HTML
+
+O HTML é uam liguagem de Hypertexto -  - para acesso acesso a pagínas, o protocolo utilizado paara acessar esas informaçlão é HTTP ou HTPPS e elas estão doisponive atraves de nomes chamados de URI.
+
+
 
 ##Introdução ao HTML
 
