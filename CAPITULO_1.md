@@ -18,9 +18,12 @@ Uma lista completa de todas as *tags* disponiveis no HTML5 por ser encontrada ne
 
 Atributos de um elemento HTML.
 
-Esse é a estrutura basica de um código escrito em HTML
+##HTML5 
 
-Salve esse arquivo com o nome de primeiro.html
+Esse é a estrutura basica de um código escrito em HTML5 e decrito da seguinte forma:
+
+
+Salve esse arquivo com o nome de primeiro.html, pois vamos modifica-lo na sequencia.
 
 O deve sempre ser incluído no topo da página, essa declaração que vai informaro ao borwser que o documento deve ser interprtado como HTML 5. Logo após nos temos o elemento html que elvolve todos os elementos da página que serão exibidos no browser. O HTML possui dois atributos muito interessantes um dele é o lang que indica em qual lingua a página está desenvolvida e o elemento `dir` que indica a direção do texto. Veja os exemplos:
 
